@@ -1,1 +1,1 @@
-# odin-lading-exercise
+# odin-landing-exercise
